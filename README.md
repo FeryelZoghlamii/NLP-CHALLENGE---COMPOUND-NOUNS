@@ -15,7 +15,7 @@ To install the required python packages run the following command:
 In order to test the solution run the script 'unit_tests.py' using the following command:
 ``` python unit_tests.py```
 
-in this case we run 4 three testing cases, which are 
+in this case we run 4 testing cases, which are 
 * Input: 'Infektion der Harnblase'	; expected output: 'N30.9'
 * Input: 'Harnblaseninfektion'		; expected output: 'N30.9'
 * Input: 'Schenkelhalsfraktur'		; expected output: 'S72.00'
