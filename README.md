@@ -11,8 +11,10 @@ The problem consists in matching compound noun descriptions against split-up var
 To install the required python packages run the following command:
 
 ``` pip install -r requirements.txt ```
+
 ## Run Unit tests
 In order to test the solution run the script 'unit_tests.py' using the following command:
+
 ``` python unit_tests.py```
 
 in this case we run 4 testing cases, which are 
