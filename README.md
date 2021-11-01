@@ -22,6 +22,7 @@ in this case we run 4 testing cases, which are
 * Input: 'Fraktur des Schenkelhalses'	; expected output: 'S72.00'
 
 The output looks like:
+
 ![alt text](https://github.com/FeryelZoghlamii/NLP-CHALLENGE---COMPOUND-NOUNS/blob/master/unit_tests.PNG?raw=true)
 
 Which means that the test runs without crashing and without failures :)
